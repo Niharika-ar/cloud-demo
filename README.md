@@ -1,4 +1,4 @@
 # cloud-demo
-Learning Phase session practice
+Learning cloud Phase session practice
 <br>
 Cloud
