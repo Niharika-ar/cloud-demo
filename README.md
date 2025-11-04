@@ -1,2 +1,2 @@
 # cloud-demo
-Learning Phase practice
+Learning Phase session practice
